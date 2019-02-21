@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        ".expo": true,
+        ".vscode": true,
+        "LICENSE": true,
+        "node_modules": true,
+        "README.md": true,
+        "yarn.lock": true
+    }
+}
